@@ -35,6 +35,9 @@ int main( )
 	do
 	{
 		cout << "Johannes" << endl;
+		cout << endl << endl;
+		cout << "                      Jon M. Schow was here :) " << endl;
+
 		cout << endl << endl << endl;
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
