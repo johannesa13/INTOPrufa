@@ -34,6 +34,7 @@ int main( )
 	int val;
 	do
 	{
+		cout << "Johannes" << endl;
 		cout << endl << endl << endl;
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
@@ -54,6 +55,7 @@ int main( )
 		}
 	}
 	while ( val != 3 );
+
 
 	return 0;
 }
