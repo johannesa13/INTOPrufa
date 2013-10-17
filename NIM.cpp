@@ -34,6 +34,7 @@ int main( )
 	int val;
 	do
 	{
+		cout << "Jón Mogensson Schow was here :) " << endl;
 		cout << endl << endl << endl;
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
